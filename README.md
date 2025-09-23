@@ -7,16 +7,8 @@ It includes tables for **Customers, Products, Orders, and Order Items**, along w
 ---
 
 ## 📂 Project Files
-- `schema.sql` → SQL script for creating tables.  
-- `seed.sql` → Insert sample data.  
-- `queries.sql` → Example queries (top-selling products, monthly revenue, top customers, low stock).  
 - `Sales_ERD.png` → ERD diagram of the database.  
 - `Sales_Project.docx` → Report (Prepared by Walaa Mohamed).  
-
----
-
-## 📊 ERD Diagram
-![ERD](Sales_ERD.png)
 
 ---
 
